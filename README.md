@@ -103,7 +103,7 @@ description: The crowd sourced data hub for all after flood precautions
 {% endhint %}
 
 1. Fork the [Github Repo](https://github.com/afterflood/afterflood.in)
-2. Add a new page and update `Readme.md & Summary.md`
+2. Add a new page and update `README.md & SUMMARY.md`
 3. Send a PR with your Update
 
 Or email us at `afterflood.in@gmail.com`   
